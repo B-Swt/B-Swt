@@ -9,9 +9,9 @@ I'm Eren Varli, a student specializing in Artificial Intelligence and a develope
 ## 🛠️ Skills  
 
 ### 📌 Programmation  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
 ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
