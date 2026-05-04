@@ -46,6 +46,7 @@ I'm Eren Varli, a student specializing in Artificial Intelligence and a develope
 ![Kali](https://img.shields.io/badge/-Kali-557C94?logo=kalilinux&logoColor=white) 
 ![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?logo=fedora&logoColor=white) 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white) 
+![MacOs](https://img.shields.io/badge/-MacOs-0078D6?logo=macos&logoColor=white) 
 
 ### 🔧 Additional  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) 
