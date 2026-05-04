@@ -49,13 +49,16 @@ I'm Eren Varli, a student specializing in Artificial Intelligence and a develope
 ![MacOs](https://img.shields.io/badge/-MacOs-0078D6?logo=macos&logoColor=white) 
 
 ### 🔧 Additional  
-![Azure DevOps](https://img.shields.io/badge/-AzureDevOps-FF6C37?logo=microsoft&logoColor=white)
+![JBoss](https://img.shields.io/badge/-Jboss-FF6C37?logo=jboss&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-FF6C37?logo=springboot&logoColor=white) 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) 
+![Azure DevOps](https://img.shields.io/badge/-AzureDevOps-FF6C37?logo=microsoft&logoColor=white)
+![PowerApps](https://img.shields.io/badge/-PowerApps-FF6C37?logo=powerapps&logoColor=white)
+![PowerAutomate](https://img.shields.io/badge/-PowerAutomate-FF6C37?logo=powerautomate&logoColor=white)
 
 #### 💡 Methodology  
 ![Agile](https://img.shields.io/badge/-Agile-FF6200?logo=agile&logoColor=white) 
