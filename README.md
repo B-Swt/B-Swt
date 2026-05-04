@@ -64,6 +64,8 @@ I'm Eren Varli, a student specializing in Artificial Intelligence and a develope
 ![Azure DevOps](https://img.shields.io/badge/-AzureDevOps-0078D7?logo=azuredevops&logoColor=white)
 ![PowerApps](https://img.shields.io/badge/-PowerApps-742774?logo=microsoftpowerapps&logoColor=white)
 ![PowerAutomate](https://img.shields.io/badge/-PowerAutomate-0066FF?logo=microsoftpowerautomate&logoColor=white)
+![WebSphere](https://img.shields.io/badge/-WebSphere-CC0000?logo=ibm&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?logo=githubactions&logoColor=white)
 
 #### 💡 Methodology  
 ![Agile](https://img.shields.io/badge/-Agile-FF6200?logo=jira&logoColor=white)
