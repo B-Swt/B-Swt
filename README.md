@@ -60,7 +60,7 @@ I'm Eren Varli, a student specializing in Artificial Intelligence and a develope
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)   
 ![Azure DevOps](https://img.shields.io/badge/-AzureDevOps-0078D7?logo=azuredevops&logoColor=white)
 ![PowerApps](https://img.shields.io/badge/-PowerApps-742774?logo=microsoftpowerapps&logoColor=white)
 ![PowerAutomate](https://img.shields.io/badge/-PowerAutomate-0066FF?logo=microsoftpowerautomate&logoColor=white)
