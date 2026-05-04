@@ -49,7 +49,8 @@ I'm Eren Varli, a student specializing in Artificial Intelligence and a develope
 ![MacOs](https://img.shields.io/badge/-MacOs-0078D6?logo=macos&logoColor=white) 
 
 ### 🔧 Additional  
-![Postman](https://img.shields.io/badge/-AzureDevOps-FF6C37?logo=azuredevops&logoColor=white) 
+![Azure DevOps](https://img.shields.io/badge/-AzureDevOps-FF6C37?logo=microsoft&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-FF6C37?logo=springboot&logoColor=white) 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) 
