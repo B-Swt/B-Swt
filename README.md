@@ -3,6 +3,7 @@ I'm Eren Varli, a student specializing in Artificial Intelligence and a develope
 
 ## 🌐 Connect with me:  
 - [LinkedIn](https://www.linkedin.com/in/eren-varli/)  
+- [Portfolio](https://erenvarli.com)  
 - 📧 erenvarli.pro@gmail.com  
 
 ## 🛠️ Skills  
