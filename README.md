@@ -23,6 +23,17 @@ I'm Eren Varli, a student specializing in Artificial Intelligence and a develope
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
 
+### 🤖 Machine Learning / Data Science  
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white) 
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) 
+![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?logo=python&logoColor=white) 
+![Pillow](https://img.shields.io/badge/-Pillow-3776AB?logo=python&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) 
+
+**Concepts :** preprocessing d'images, PCA (réduction de dimension), SVM (kernel RBF), Random Forest, KNN, régression logistique, perceptron multicouche (MLP), cartes auto-organisatrices (SOM), cross-validation stratifiée, GridSearchCV, data augmentation, métriques de classification (F1, precision, recall, ROC-AUC, matrices de confusion), détection de data leakage et de distribution shift.
+
 ### 🗄️ Data  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
